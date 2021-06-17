@@ -1,0 +1,2 @@
+build --incompatible_strict_action_env
+build --host_platform=@io_tweag_rules_nixpkgs//nixpkgs/platforms:host
